@@ -6,7 +6,7 @@ Users can easily utilise the CliqInformer :speech_balloon: by cloning the reposi
 git clone https://<GITHUB PERSONAL ACCESS TOKEN>@github.com/CliqGeeks/RepositoryTemplate
 ```
 
-## Genarating Personal Access Token 🗝️
+## Generating Personal Access Token 🗝️
 The **Personal Access Token** can be created 
   - from the Tokens Section of Settings at https://github.com/settings/tokens
   - or Click Profile -> Settings -> Developer Settings -> Personal Access Tokens -> Tokens (classic)
